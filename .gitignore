@@ -1,2 +1,8 @@
 .dep
 obj_gherkin
+gherkin.eep
+gherkin.elf
+gherkin.hex
+gherkin.lss
+gherkin.map
+gherkin.sym
